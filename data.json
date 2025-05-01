@@ -1,14 +1,17 @@
-{
-  "1": {
-    "nombre": "Yishaq R",
-    "descripcion": "B31"
-  },
-  "2": {
-    "nombre": "Juan Gómez",
-    "descripcion": "C12"
-  },
-  "3": {
-    "nombre": "Ana Rodríguez",
-    "descripcion": "F3"
-  }
-}
+[
+    {
+        "id": 1,
+        "nombre": "Yishaq R",
+        "descripcion": "B31"
+    },
+    {
+        "id": 2,
+        "nombre": "Juan G\u00f3mez",
+        "descripcion": "C12"
+    },
+    {
+        "id": 3,
+        "nombre": "Ana Rodr\u00edguez",
+        "descripcion": "F3"
+    }
+]
