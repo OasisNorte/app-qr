@@ -2,16 +2,26 @@
     {
         "id": 1,
         "nombre": "Yishaq Riveros",
-        "descripcion": "B31"
+        "descripcion": "Z3"
     },
     {
         "id": 2,
         "nombre": "Adriana Lopez",
-        "descripcion": "C12"
+        "descripcion": "A2"
     },
     {
         "id": 3,
         "nombre": "Gustavo Paez",
-        "descripcion": "F3"
+        "descripcion": "A1"
+    },
+    {
+        "id": 4,
+        "nombre": "Jorge Riveros",
+        "descripcion": "F23"
+    },
+    {
+        "id": 5,
+        "nombre": "William Gonsalez",
+        "descripcion": "A8"
     }
 ]
