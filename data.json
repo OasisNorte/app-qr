@@ -1,17 +1,17 @@
 [
     {
         "id": 1,
-        "nombre": "Yishaq R",
+        "nombre": "Yishaq Riveros",
         "descripcion": "B31"
     },
     {
         "id": 2,
-        "nombre": "Juan G\u00f3mez",
+        "nombre": "Adriana Lopez",
         "descripcion": "C12"
     },
     {
         "id": 3,
-        "nombre": "Ana Rodr\u00edguez",
+        "nombre": "Gustavo Paez",
         "descripcion": "F3"
     }
 ]
